@@ -31,11 +31,11 @@ The [official WiDS datathon notebook](https://www.kaggle.com/danofer/wids-2020-s
 
 ### Use Jupyter notebook in local
 
-You can use Jupyter notebook in local
+We recommend to use Kaggle Jupyter notebooks as they come with everything you need pre-installed.
 
-* The Data can be download at https://www.kaggle.com/c/widsdatathon2020/data
+But you can use Jupyter notebook in local if you prefer.
 
-* Predictions submitted at https://www.kaggle.com/c/widsdatathon2020/submit
+> Download the data at https://www.kaggle.com/c/widsdatathon2020/data
 
 ## Additional documentation
 
