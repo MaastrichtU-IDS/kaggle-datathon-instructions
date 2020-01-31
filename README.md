@@ -8,8 +8,6 @@ Kaggle provides data from intensive care patients, you need to predict how long 
 
 * You can see public notebooks related to this competition and create a new notebook at https://www.kaggle.com/c/widsdatathon2020/notebooks
 
----
-
 ## Develop in a notebook
 
 ### Use Kaggle Jupyter notebooks
@@ -36,22 +34,20 @@ You can use Jupyter notebook in local
 
 * Predictions submitted at https://www.kaggle.com/c/widsdatathon2020/submit
 
----
-
 ## Additional documentation
 
 ### IDS repositories with data science materials
 
-https://github.com/MaastrichtU-IDS/jupyter-workshop
-https://github.com/MaastrichtU-IDS/advanced-business-analytics
-https://github.com/MaastrichtU-IDS/data-science-bootcamp-pggm
-https://github.com/MaastrichtU-IDS/machine-learning-workshop
+* https://github.com/MaastrichtU-IDS/jupyter-workshop
+* https://github.com/MaastrichtU-IDS/advanced-business-analytics
+* https://github.com/MaastrichtU-IDS/data-science-bootcamp-pggm
+* https://github.com/MaastrichtU-IDS/machine-learning-workshop
 
 ### General repositories with data science materials
 
-https://github.com/firmai/industry-machine-learning
-https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
-https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
-https://github.com/drivendata/data-science-is-software
-https://ebookfoundation.github.io/free-programming-books/
-https://github.com/awesomedata/awesome-public-datasets
+* https://github.com/firmai/industry-machine-learning
+* https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
+* https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
+* https://github.com/drivendata/data-science-is-software
+* https://ebookfoundation.github.io/free-programming-books/
+* https://github.com/awesomedata/awesome-public-datasets
