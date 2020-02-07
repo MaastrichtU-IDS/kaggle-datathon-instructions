@@ -41,10 +41,10 @@ But you can use Jupyter notebook in local if you prefer.
 
 ### IDS repositories with data science materials
 
-* https://github.com/MaastrichtU-IDS/jupyter-workshop
-* https://github.com/MaastrichtU-IDS/advanced-business-analytics
-* https://github.com/MaastrichtU-IDS/data-science-bootcamp-pggm
-* https://github.com/MaastrichtU-IDS/machine-learning-workshop
+* [MaastrichtU-IDS/jupyter-workshop](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/jupyter-workshop/tree/master/)
+* [MaastrichtU-IDS/advanced-business-analytics](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/advanced-business-analytics/tree/master/)
+* [MaastrichtU-IDS/data-science-bootcamp](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/data-science-bootcamp-pggm/tree/master/)
+* [MaastrichtU-IDS/machine-learning-workshop](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/machine-learning-workshop/tree/master/)
 
 ### General repositories with data science materials
 
@@ -54,3 +54,7 @@ But you can use Jupyter notebook in local if you prefer.
 * https://github.com/drivendata/data-science-is-software
 * https://ebookfoundation.github.io/free-programming-books/
 * https://github.com/awesomedata/awesome-public-datasets
+
+### Cheatsheets
+
+[MaastrichtU-IDS/cheatsheets](https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/data-science-cheatsheets.zip)
